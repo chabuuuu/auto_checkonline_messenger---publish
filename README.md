@@ -3,3 +3,5 @@ Một tool để check xem người yêu của bạn có đang thức khuya bấ
 
 # How to use?
 Vào folder dist, đọc hướng dẫn sử dụng là xong
+
+# Tool code by me, có thắc mắc gì hãy contact cho tôi

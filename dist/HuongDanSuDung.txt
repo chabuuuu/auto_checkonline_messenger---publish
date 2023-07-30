@@ -1,0 +1,10 @@
+1. Nhập thông tin vào file setting.json:
+	+Username: tên tài khoản fb của bạn
+	+Password: pass acc fb
+	+hourStart: giờ bắt đầu
+	+hourEnd: giờ kết thúc check
+	+userLink1: link dẫn đến MESSENGER của tài khoản fb muốn track online
+	+userLink2: tương tự
+	+personName1: tên muốn con bot gọi person1
+	+personName2: tên muốn con bot gọi person2
+2. Chạy auto.exe

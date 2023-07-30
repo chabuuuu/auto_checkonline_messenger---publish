@@ -1,5 +1,5 @@
 # Auto check online messenger
-Một tool để check xem người yêu của bạn có đang thức khuya bấm điện thoại hay không
+Một tool để chắc chắn rằng người yêu của bạn không thức khuya bấm điện thoại
 
 # How to use?
 Vào folder dist, đọc hướng dẫn sử dụng là xong
